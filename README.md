@@ -1,2 +1,2 @@
 # Hello-World
- First Program
+ First program you learned
